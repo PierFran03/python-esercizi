@@ -16,6 +16,9 @@ Calcolatrice base con le 4 operazioni e gestione della divisione per zero.
 ### Esercizio 4 - Indovina il numero
 Il programma genera un numero casuale tra 1 e 100 e l'utente deve indovinarlo. Ad ogni tentativo il programma dice se il numero è troppo alto o troppo basso, e alla fine mostra quanti tentativi ci ha messo.
 
+### Esercizio 5 - Rubrica
+Il programma permette di inserire un nuovo contatto alla rubrica, di cercarlo e di visualizzare la il dizionario completo della rubrica (nel caso in cui ne abbia già aggiunto uno prima), e permette anche l'uscita dal programma
+
 ## Tecnologie
 - Python 3.12
 
