@@ -20,6 +20,7 @@ elif operazione == "*":
 elif operazione == "/":
     if numeri[1] == 0:
         print("Errore, non si può dividere per 0!!")
+        exit()
     else:
         risultato = numeri[0] / numeri[1]
 
